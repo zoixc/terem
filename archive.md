@@ -122,4 +122,7 @@
 * Тред #118 [>>844458](https://2ch.hk/p/res/844458.html) | <https://arhivach.top/thread/982843/>
 * Тред #119 [>>848571](https://2ch.hk/p/res/848571.html) | <https://arhivach.top/thread/984007/>
 * Тред #120 [>>852102](https://2ch.hk/p/res/852102.html) | <https://arhivach.top/thread/997804/>
+* Тред #121 [>>855994](https://2ch.hk/p/res/855994.html) | <https://arhivach.top/thread/1041836/>
+* Тред #122 [>>859839](https://2ch.hk/p/res/859839.html) | <https://arhivach.top/thread/1041835/>
+* Тред #123 [>>861600](https://2ch.hk/p/res/861600.html) | <https://arhivach.top/thread/1041837/>
 </details>
