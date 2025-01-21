@@ -102,13 +102,18 @@
     * [Павел Косенко, как обрабатывать пленочные фотографии](<https://youtu.be/cea0Abwj3BM?si=QoQMvAzPhXvSSRVV>)
     * [Как выполняется маскирование при печати](https://youtu.be/Cb-j3Uk2MWg?si=P3UTVyEIGpIF23rZ)
     * [Эмиль Гатауллин, хороший пример печати с масками](<https://www.youtube.com/watch?v=EzGELgwHArk>)
+    * [Клуб Аналоговой Фотографии](<https://www.youtube.com/@k.a.f>)  
+    * [Фотач - канал одного местного анона](<https://www.youtube.com/@%D1%84%D0%BE%D1%82%D0%B0%D1%87>)
 * Англоязычные
     *  [Дед-пейзажник](<https://www.youtube.com/channel/UC7FAbyJQdQTudmCJanZFRBg>)
     *  [Эдуардо Павез, дерзкий стритер, пленочник](<https://www.youtube.com/user/ProfetaParanoia>)
     *  [Дэвид Ханкок, обзоры пленок и техники](<https://www.youtube.com/channel/UCrZlzcRfCKLngZnqNTmTQjw>)
-	* [Джейсон Каммерфельд, обзоры и эксперименты](https://www.youtube.com/c/grainydaysss)
+    *  [Джейсон Каммерфельд, обзоры и эксперименты](https://www.youtube.com/c/grainydaysss)
     *  [Мэтт Дэй, упор на средний формат](<https://www.youtube.com/user/mattdayphotofilmshow>)
     *  [Голый фотограф, тесты плёнок, работа в тёмной комнате](<https://www.youtube.com/c/TheNakedPhotographer/videos>)
+    *  [Analog Resurgence](<https://www.youtube.com/@AnalogResurgence>)
+    *  [attic darkroom, чел с пленочными экспериментами](<https://www.youtube.com/@atticdarkroom>)
+    *  [Kyle McDougall, фотограф-базовик с кучей полезных видео](<https://www.youtube.com/@KyleMcDougall>)
 ***
 ### Тематические чаты в телеге
 * [Пленочная барахолка (Россия)](https://t.me/filmphotosale)
