@@ -127,8 +127,8 @@
 * Тред #121 [>>855994](https://2ch.hk/p/res/855994.html) | <https://arhivach.hk/thread/1041836/>
 * Тред #122 [>>859839](https://2ch.hk/p/res/859839.html) | <https://arhivach.hk/thread/1041835/>
 * Тред #123 [>>861600](https://2ch.hk/p/res/861600.html) | <https://arhivach.hk/thread/1041837/>
-* Тред #124 [>>861600](https://2ch.hk/p/res/866037.html) | <https://arhivach.hk/thread/1091986/>
-* Тред #125 [>>861600](https://2ch.hk/p/res/869827.html) | <https://arhivach.hk/thread/1091987/>
+* Тред #124 [>>866037](https://2ch.hk/p/res/866037.html) | <https://arhivach.hk/thread/1091986/>
+* Тред #125 [>>869827](https://2ch.hk/p/res/869827.html) | <https://arhivach.hk/thread/1091987/>
 * Тред #126 [>>872044](https://2ch.hk/p/res/872044.html) | <https://arhivach.hk/thread/1122600/>
 * Тред #127 [>>874060](https://2ch.hk/p/res/874060.html) | <https://arhivach.hk/thread/1122601/>
 </details>
