@@ -131,4 +131,5 @@
 * Тред #125 [>>869827](https://2ch.hk/p/res/869827.html) | <https://arhivach.hk/thread/1091987/>
 * Тред #126 [>>872044](https://2ch.hk/p/res/872044.html) | <https://arhivach.hk/thread/1122600/>
 * Тред #127 [>>874060](https://2ch.hk/p/res/874060.html) | <https://arhivach.hk/thread/1122601/>
+* Тред #128 [>>877131](https://2ch.hk/p/res/877131.html) | <https://arhivach.hk/thread/1158142/>
 </details>
