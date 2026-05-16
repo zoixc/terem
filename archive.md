@@ -134,4 +134,6 @@
 * Тред #128 [>>877131](https://2ch.su/p/res/877131.html) | <https://arhivach.vc/thread/1158142/>
 * Тред #129 [>>881448](https://2ch.su/p/res/881448.html) | <https://arhivach.vc/thread/1216221/>
 * Тред #130 [>>885256](https://2ch.su/p/res/885256.html) | <https://arhivach.vc/thread/1216220/>
+* Тред #131 [>>885256](https://2ch.su/p/res/892559.html) | <https://arhivach.vc/thread/1216220/>
+* Тред #132 [>>885256](https://2ch.su/p/res/899951.html) | <https://arhivach.vc/thread/1216220/>
 </details>
