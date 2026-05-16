@@ -83,6 +83,16 @@
     * дома по инструкции — [fototips.ru](<http://fototips.ru/praktika/plyonochnaya-fotografiya-proyavka-chyorno-beloj-plyonki/>)
     * проф. лаба
 ***
+### Тематические чаты в телеге
+* [Пленкачат](https://t.me/plenkachat) *один из крупнешийх СНГ чатов на тему*
+* [Чат для сходок в Москве](https://t.me/PhotoKarton)
+* [Пленочная барахолка (Россия)](https://t.me/filmphotosale) *только объявления и отзывы к продавцам*
+* [Двачерский чат фриков, ответвление чата барахолки без правил](https://t.me/filmphotosalechat)
+* [Клуб Аналоговой Фотографии](https://t.me/KAFclub)
+* [Средний формат](https://t.me/mediumformatchat)
+* [Большой формат](https://t.me/large_format_ru) *со своей галереей и барахолкой*
+* [Про печать и химию](https://t.me/AF_Chemicals)
+***
 ### Полезные ссылки
 Дополняйте, пожалуйста
 * [Большая база данных старых и новых пленок (только актуальность на рынке, без деталей)](<https://industrieplus.net/dxdatabase/>)
@@ -114,13 +124,6 @@
     *  [Analog Resurgence](<https://www.youtube.com/@AnalogResurgence>)
     *  [attic darkroom, чел с пленочными экспериментами](<https://www.youtube.com/@atticdarkroom>)
     *  [Kyle McDougall, фотограф-базовик с кучей полезных видео](<https://www.youtube.com/@KyleMcDougall>)
-***
-### Тематические чаты в телеге
-* [Пленочная барахолка (Россия)](https://t.me/filmphotosale)
-* [Клуб Аналоговой Фотографии](https://t.me/KAFclub)
-* [Средний формат](https://t.me/mediumformatchat)
-* [Большой формат](https://t.me/large_format_ru) *со своей галереей и барахолкой*
-* [Про печать и химию](https://t.me/AF_Chemicals)
 ***
 [Архив (с треда #1 по текущий)](https://github.com/zoixc/terem/blob/master/archive.md)
 
